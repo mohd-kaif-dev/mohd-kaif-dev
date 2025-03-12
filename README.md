@@ -1,14 +1,19 @@
-# 💫 About Me:
-Hello 👋, I'm 🤖 An Aspiring SDE  
-🧑‍💻 Tech Enthusiast | 🦉Philosopher | ⚙️ Coder | 🎮 Gamer  
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px" >
+</p>
 
----
+# <p align="center">I'm</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+   <img src= "https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=000000&background=F7F7F7&center=true&vCenter=true&width=450&lines=🤖+Aspiring+Software+Developer!;🧑‍💻+Tech+Enthusiast;🧛‍♂️+Frontend+Developer;⚙️+Coder;🎮+Gamer;🧓Lifelong+Learner;🦉+Philosopher!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-kaif74)
 
----
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -25,13 +30,38 @@ Hello 👋, I'm 🤖 An Aspiring SDE
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+
 ---
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohd-kaif-dev&show_icons=true&theme=radical)
 
+<img src="https://komarev.com/ghpvc/?username=mohd-kaif-dev&label=Profile%20Views&color=blue&style=flat-square" />
+
+
+
 ---
 
-## ✍️ Random Dev Quote:
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-kaif-dev&theme=tokyonight" />
+
+---
+
+## ✍️ Quote:
+> ## “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+<p align="left">
+  <a href="https://YOUR_PORTFOLIO_LINK.com">
+    <img src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=web&logoColor=white">
+  </a>
+  <a href="mailto:mk.kaif.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Hire%20Me-success?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%20-2024-blueviolet?style=for-the-badge&logo=hackthebox)
+![Open Source](https://img.shields.io/badge/Open%20Source-%23F7931E.svg?style=for-the-badge&logo=openaccess&logoColor=white)
+
+
+
 
